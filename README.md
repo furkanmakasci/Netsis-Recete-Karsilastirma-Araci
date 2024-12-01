@@ -6,7 +6,11 @@ Perf Board
 ![](pics/appPic3.png)
 ![](pics/appPic4.png)
 ![](pics/appPic5.png)
+<div style="display: flex; gap: 10px;">
+    <img src="pics/recete1pic" alt="Görsel 1" width="200"/>
+    <img src="pics/recete2pic.png" alt="Görsel 2" width="200"/>
+</div>
+
 ![](pics/appPic6.png)
-![](pics/recete1pic.png)![](pics/recete2pic.png)
 ![](pics/appPic7.png)
 
