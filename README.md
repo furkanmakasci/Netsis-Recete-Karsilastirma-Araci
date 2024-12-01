@@ -6,7 +6,7 @@ Netsis programından alınan reçetelerdeki farklılıkları tespit eden basit b
 
 <div style="display: flex; gap: 10px;">
     <img src="pics/appPic3.png" alt="Görsel 1" width="600"/>
-    <img src="pics/appPic4.png" alt="Görsel 2" width="225"/>
+    <img src="pics/appPic4.png" alt="Görsel 2" width="200"/>
 </div>
 
 <div style="display: flex; gap: 10px;">
