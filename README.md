@@ -6,7 +6,7 @@ ayni stok kodlu farklı sayıdaki malzemelerin bir listesini çıkarır. Ayrıca
 fazla malzeme var ise bunları birleştirdikten sonra size sonuçları verir.
 
 Netsisden çekilen reçelerin üstünde herhangi bir işlem uygulamadan kullanılabilir. Ancak excel
-dosyalarının .xlxs formatında olması gerekmektedir. Bu yüzden .xls alınan excelleri .xlxs uzantısı ile farklı
+dosyalarının .xlsx formatında olması gerekmektedir. Bu yüzden .xls alınan excelleri .xlsx uzantısı ile farklı
 kaydetip kullanmanız gerekmektedir.
 
 ![](pics/appPic1.png)
