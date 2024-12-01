@@ -14,6 +14,6 @@ Netsis programından alınan reçetelerdeki farklılıkları tespit eden basit b
     <img src="pics/appPic6.png" alt="Görsel 2" width="250"/>
 </div>
 
+![](pics/recete1pic.png)
+![](pics/recete2pic.png)
 ![](pics/appPic7.png)
-pics/recete1pic.png
-pics/recete2pic.png
