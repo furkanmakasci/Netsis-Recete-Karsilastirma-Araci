@@ -1,9 +1,9 @@
 # Netsis-Recete-Karsilastirma-Araci
 Netsis programından alınan reçetelerdeki farklılıkları tespit eden basit bir uygulama...
 
-Reçetedeki alt kırılımları yok eder, reçetelerdeki farklı stok kodlu malzemelerin ve 
-ayni stok kodlu farklı sayıdaki 
-
+Reçetedeki alt kırılımları yok eder, reçetelerdeki farklı stok kodlu malzemelerin ve ayni stok kodlu farklı 
+sayıdaki malzemelerin bir listesini çıkarır. Ayrıca reçetede aynı stok koduna sahip birden fazla malzeme
+var ise bunları birleştirdikten sonra size sonuçları verir.
 
 ![](pics/appPic1.png)
 
@@ -18,5 +18,11 @@ ayni stok kodlu farklı sayıdaki
 </div>
 
 ![](pics/recete1pic.png)
+
+
+
+
+
+
 ![](pics/recete2pic.png)
 ![](pics/appPic7.png)
