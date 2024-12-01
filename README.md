@@ -5,7 +5,7 @@ Reçetedeki alt kırılımları yok eder ve göz önünde bulundurmaz. Reçetele
 ayni stok kodlu farklı miktarlı malzemelerin bir listesini çıkarır. Ayrıca reçetede aynı stok koduna sahip birden 
 fazla malzeme var ise bunları birleştirdikten sonra size sonuçları verir.
 
-Netsisden çekilen reçelerin üstünde herhangi bir işlem uygulamadan kullanılabilir. Ancak excel
+Netsisden çekilen reçetelerin üstünde herhangi bir işlem uygulamadan kullanılabilir. Ancak excel
 dosyalarının .xlsx formatında olması gerekmektedir. Bu yüzden .xls alınan excelleri .xlsx uzantısı ile farklı
 kaydetip kullanmanız gerekmektedir.
 
