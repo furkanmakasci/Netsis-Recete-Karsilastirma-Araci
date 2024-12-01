@@ -1,9 +1,9 @@
 # Netsis-Recete-Karsilastirma-Araci
 Netsis programından alınan reçetelerdeki farklılıkları tespit eden basit bir uygulama...
 
-Reçetedeki alt kırılımları yok eder, reçetelerdeki farklı stok kodlu malzemelerin ve ayni stok kodlu farklı 
-sayıdaki malzemelerin bir listesini çıkarır. Ayrıca reçetede aynı stok koduna sahip birden fazla malzeme
-var ise bunları birleştirdikten sonra size sonuçları verir.
+Reçetedeki alt kırılımları yok eder ve göz önünde bulundurmaz. Reçetelerdeki farklı stok kodlu malzemelerin ve 
+ayni stok kodlu farklı sayıdaki malzemelerin bir listesini çıkarır. Ayrıca reçetede aynı stok koduna sahip birden 
+fazla malzeme var ise bunları birleştirdikten sonra size sonuçları verir.
 
 Netsisden çekilen reçelerin üstünde herhangi bir işlem uygulamadan kullanibilir. Ancak excel
 dosyalarının .xlxs formatında olması gerekmektedir. Bu yüzden .xls alınan excelleri .xlxs uzantısı ile farklı
