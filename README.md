@@ -2,7 +2,7 @@
 Netsis programından alınan reçetelerdeki farklılıkları tespit eden basit bir uygulama...
 
 Reçetedeki alt kırılımları yok eder ve göz önünde bulundurmaz. Reçetelerdeki farklı stok kodlu malzemelerin ve 
-ayni stok kodlu farklı sayıdaki malzemelerin bir listesini çıkarır. Ayrıca reçetede aynı stok koduna sahip birden 
+ayni stok kodlu farklı miktarlı malzemelerin bir listesini çıkarır. Ayrıca reçetede aynı stok koduna sahip birden 
 fazla malzeme var ise bunları birleştirdikten sonra size sonuçları verir.
 
 Netsisden çekilen reçelerin üstünde herhangi bir işlem uygulamadan kullanılabilir. Ancak excel
