@@ -8,7 +8,7 @@ Perf Board
 ![](pics/appPic5.png)
 <div style="display: flex; gap: 10px;">
     <img src="pics/appPic3.png" alt="Görsel 1" width="800"/>
-    <img src="pics/appPic4.png" alt="Görsel 2" width="50"/>
+    <img src="pics/appPic4.png" alt="Görsel 2" width="25"/>
 </div>
 
 ![](pics/appPic6.png)
