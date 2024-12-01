@@ -7,7 +7,6 @@ Perf Board
 ![](pics/appPic4.png)
 ![](pics/appPic5.png)
 ![](pics/appPic6.png)
-![](pics/recete1pic.png)
-![](pics/recete2pic.png)
+![](pics/recete1pic.png)![](pics/recete2pic.png)
 ![](pics/appPic7.png)
 
