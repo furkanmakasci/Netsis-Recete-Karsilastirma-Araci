@@ -5,6 +5,9 @@ Reçetedeki alt kırılımları yok eder, reçetelerdeki farklı stok kodlu malz
 sayıdaki malzemelerin bir listesini çıkarır. Ayrıca reçetede aynı stok koduna sahip birden fazla malzeme
 var ise bunları birleştirdikten sonra size sonuçları verir.
 
+
+
+
 ![](pics/appPic1.png)
 
 <div style="display: flex; gap: 10px;">
